@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 pip install tensorflow streamlit scikit-learn numpy scikit-fuzzy pillow
+=======
+numpy==1.26.3
+scikit-learn==1.3.2
+streamlit==1.29.0
+streamlit-option-menu==0.3.6
+>>>>>>> 255eb006063c65b2ad09b6ac0930122056b1df4f
