@@ -1,0 +1,1 @@
+pip install tensorflow streamlit scikit-learn numpy scikit-fuzzy pillow
